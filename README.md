@@ -1,7 +1,7 @@
 ### __Olá, meu nome é Gabriel__ 👋
 
-- 🌱 Atualmente estudando Web development com Javascript
-- 🎇 Tenhi conhecimentos de C++, Java e Haskell
+- 🌱 Atualmente estudando Web development com Javascript, CSS e HTMl
+- 🎇 Tenho conhecimentos básicos em C++, Java e Haskell
 - ✨ Futuro game developer 
 
 ##
