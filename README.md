@@ -1,10 +1,8 @@
-### __Olá, meu nome é Gabriel__ 👋
+# __Olá, meu nome é Gabriel__ 👋
 
 Cursando Ciência da Computação na Universidade Estadual do Sudoeste da Bahia, atualmente estudando desenvolvimento full-stack utilizando Javascript. Futuro game developer. Aqui estão salvos alguns projetos desenvolvidos por mim dentro e fora da faculdade.
 
-##
-
-### __Skills__ 
+## Skills
 <div>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot"/>
@@ -16,12 +14,17 @@ Cursando Ciência da Computação na Universidade Estadual do Sudoeste da Bahia,
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt=tailwind"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt=mongoDB"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt=mysql"/>
-
 </div>
 
-&nbsp;
+## Stats
+<div aling="center">
+  <div align="left">
+    <img  src="https://github-readme-stats.vercel.app/api?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="gabrieluzel" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="gabrieluzel" /> 
+  </div>
+</div>
 
-### __Me contate__ 👇
+## Contact me 👇
 <div>
   <a href="https://instagram.com/gabriel_uzel"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="mailto:gabrieluzelwork@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
