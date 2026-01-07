@@ -1,19 +1,18 @@
-# __Olá, meu nome é Gabriel__ 👋
+# __Hello world, i'm Gabriel__ 👋
 
-Cursando Ciência da Computação na Universidade Estadual do Sudoeste da Bahia, atualmente estudando desenvolvimento full-stack utilizando Javascript. Futuro game developer. Aqui estão salvos alguns projetos desenvolvidos por mim dentro e fora da faculdade.
+Junior Software Developer, forward to work in web development. Easy to work with and proactive. I have a degree in computer science by Universidade Estadual do Sudoeste da Bahia.
 
 ## Skills
 <div>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt=nestjs"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt=prisma"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=react"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt=tailwind"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt=elixir"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" alt=phoenix"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt=tailwind"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt=mongoDB"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt=mysql"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt=postgresql"/>
 </div>
 
 ## Stats
