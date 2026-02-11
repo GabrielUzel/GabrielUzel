@@ -16,10 +16,10 @@ Junior Software Developer, forward to work in web development. Easy to work with
 </div>
 
 ## Stats
-<div aling="center">
+<div align="center">
   <div align="left">
-    <img  src="https://github-readme-stats.vercel.app/api?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="gabrieluzel" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="gabrieluzel" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="gabrieluzel" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="gabrieluzel" /> 
   </div>
 </div>
 
