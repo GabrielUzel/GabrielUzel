@@ -23,7 +23,7 @@ Junior Software Developer, forward to work in web development. Easy to work with
       alt="gabrieluzel"
     />
     <img
-      src="https://github-readme-stats-gabrieluzel.vercel.app/api/top-langs/?username=GabrielUzel&layout=compact&theme=dracula"
+      src="https://github-readme-stats-gabrieluzel.vercel.app/api/top-langs/?username=GabrielUzel&layout=compact&theme=dracula&hide_border=true"
       alt="gabrieluzel"
     />
   </div>
