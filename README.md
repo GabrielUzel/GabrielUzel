@@ -19,11 +19,11 @@ Junior Software Developer, forward to work in web development. Easy to work with
 <div align="center">
   <div align="left">
     <img
-      src="https://github-readme-stats-gabrieluzel.vercel.app/api?username=GabrielUzel"
+      src="https://github-readme-stats-gabrieluzel.vercel.app/api?username=GabrielUzel&theme=dracula&show_icons=true&hide_border=true"
       alt="gabrieluzel"
     />
     <img
-      src="https://github-readme-stats-gabrieluzel.vercel.app/api/top-langs/?username=GabrielUzel&layout=compact"
+      src="https://github-readme-stats-gabrieluzel.vercel.app/api/top-langs/?username=GabrielUzel&layout=compact&theme=dracula"
       alt="gabrieluzel"
     />
   </div>
