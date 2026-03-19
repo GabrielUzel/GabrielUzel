@@ -1,6 +1,10 @@
 # __Hello world, i'm Gabriel__ 👋
 
-Junior Software Developer, forward to work in web development. Easy to work with and proactive. I have a degree in computer science by Universidade Estadual do Sudoeste da Bahia.
+Engenheiro de Software Fullstack com foco em desenvolvimento web e aplicações desktop. Graduado em Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia.
+
+Tenho experiência com Node.js, TypeScript, NestJS, React, Tailwind, Elixir, Phoenix, PostgreSQL e MySQL, além de familiaridade com Docker, Git e GraphQL. Valorizo boas práticas de programação, código limpo e arquitetura bem definida.
+
+Atualmente aprofundando meus conhecimentos em Domain-Driven Design (DDD), CQRS e arquitetura de sistemas.
 
 ## Skills
 <div>
